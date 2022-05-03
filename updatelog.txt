@@ -1,0 +1,38 @@
+N/A   06/24/110
+ Our story ends here,right?
+N/A		04/23/110
+ Added function:REM
+N/A		04/16/110
+ Finished Chapter 0.
+N/A		04/15/110
+ Fixed a lot of cumulate bugs.
+ Removed E from string dat.
+ Finished Extra 2,3.
+ Finished BE01,BE02.
+ Changed game name from "Love a Piglin" to "Love a Mico".
+N/A		04/08/110
+ Added endings;
+ Added frame type:ED,EDB
+N/A		04/06/110
+ Removed L,N,S from string dat.
+ Added ending storage to SAVE.DAT.
+Alpha 3	04/02/110
+ Added function:ULK
+ Chapters unlock condition is now in SAVE.DAT.
+ Added titles.
+ Extended save slots length to 26.
+ Added chapter choices.
+ Added function:COL
+ Added frame types:CHAP,EOC,EOS
+ Changed save interface again.
+Alpha 2	03/25/110
+ Changed the save interface.
+ Moved character information into collections.
+ Changed some color.
+ Added options.
+ Added some additional functions.(TAG,GOTO)
+ Added new frame type:OPT
+Alpha 1	03/19/110
+ Initial release.
+N/A		02/01/110
+ Started development.

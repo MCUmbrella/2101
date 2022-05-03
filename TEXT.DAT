@@ -1,0 +1,2433 @@
+CHAP 0
+3
+14
+____
+Result of the math test had been released.
+I thought I was able to get the full score,150.
+2
+14
+____
+I went to the teachers' office.
+3
+14
+__Math Teacher__
+You got 147 scores.
+It's already very good,since the questions are very complex.
+3
+14
+__Vicky__
+Thank you,Mr.Lee.
+I think I could be better.
+3
+14
+____
+I was not kidding.
+I made a silly mistake.
+2
+14
+____
+On my way back to my classroom,I couldn't help blaming myself.
+4
+14
+__Vicky__
+(Why I'm so stupid?)
+(Why I'm so careless?)
+(Why I'm so...)
+4
+14
+____
+However,one fact made me a little better.
+I must be the first.
+I had the confidence.
+2
+14
+____
+At least until I saw the score sheet.
+4
+12
+____
+There was a guy called Mico.
+Her score was 148.
+Just a little higher than mine.
+4
+12
+____
+How's that possible?
+I felt extremely disappointed.
+The first exam in this class was a nightmare.
+2
+14
+__Vicky__
+Who is Mico...
+2
+07
+__???__
+It's me.What's the matter?
+2
+07
+____
+!!!
+2
+07
+____
+A piglin girl was sitting there,staring at me.
+4
+07
+__Vicky__
+Ah...Nothing.
+I'm just...
+Nice to meet you.
+4
+07
+____
+In my opinion,she is so beautiful.
+However,I could feel intense power from her fully black eyes.
+I daren't look at her eyes directly.
+2
+07
+__Mico__
+Nice to meet you,too!
+3
+07
+____
+The bell rang.
+I had to go back to my seat.
+3
+14
+__English Teacher__
+Silent,class.
+I'll rearrange the seats today.
+3
+14
+____
+My new deskmate was...
+Mico.The piglin girl I met just now.
+2
+07
+__Vicky__
+...
+3
+07
+__Mico__
+Hello.We'll spend this semester together.
+Let's enjoy a happy life.
+3
+07
+__Vicky__
+Aha.Thank you.
+Also,I'm really happy to know that you've got 148 in the previous exam.
+2
+09
+__Mico__
+Thank you,too!
+2
+07
+__Mico__
+Oh,I forgot to ask your name!
+3
+07
+__Vicky__
+My name is Vicky.
+I like math and chemistry.
+2
+07
+__Mico__
+My name is Mico.
+2
+07
+__Vicky__
+Huh.I've already known that.
+4
+07
+__Mico__
+Well.
+I like animations and music.
+I mean,South Korean music.
+3
+07
+__Vicky__
+I see.
+So,who's your favorite singer?
+4
+09
+__Mico__
+???.
+They're so handsome!
+I really love them!
+2
+07
+__Vicky__
+Well,what's that?
+3
+08
+__Mico__
+How silly you are!
+Why don't you know them?
+2
+08
+__Vicky__
+I really don't know...
+3
+09
+__Mico__
+Just a joke~
+Don't be angry.
+2
+07
+__Vicky__
+I don't care.
+3
+14
+__English Teacher__
+Class is over.
+Homework today:...
+OPT
+14 01 02 03
+After school,what do you want to do?
+[0]Go to PC club
+[1]Go to dinner directly
+[2]Do homework
+3
+14
+____
+Before having dinner,I decided to go to the PC Club.
+Since I was a member,I could use computers there.
+TAG 01
+3
+13
+__???__
+Hello!
+Have you brought something fun this time?
+2
+13
+____
+This guy is my friend,Spider.
+4
+13
+__Vicky__
+No.
+But I met a weird girl called Mico.
+It's unbelievable that her math score is higher than mine.
+3
+13
+__Spider__
+That's a sad story.
+What does the girl looks like?
+4
+13
+__Vicky__
+She is a lovely piglin.
+You can go to my class after dinner.
+Her seat is by my side.
+4
+13
+__Spider__
+Well.Look at this program!
+I made it last night.
+It's cool,right?
+3
+13
+__Vicky__
+Sleep earlier next time!
+You look sleepy.
+2
+14
+____
+After having dinner,I went back to my classroom.
+3
+13
+__Spider__
+I want to play some music here.
+This song is really,really good!
+3
+13
+__Students__
+Go away,go away!
+This is NOT your class!
+4
+13
+__Spider__
+Is that the piglin girl you've mentioned?
+Looks really beautiful.
+Do you know her IM number?
+2
+13
+__Vicky__
+Well,you know that I don't use IM softwares.
+3
+13
+__Students__
+Go away now!
+The music is so loudly!
+3
+13
+__Spider__
+Seems that I have to leave here.
+See you next time!
+GOTO 04
+3
+14
+____
+Nothing delicious.
+They were always the same.
+TAG 02
+2
+14
+__Vicky__
+(Can't you make it better next time?)
+GOTO 04
+4
+14
+____
+a*cos(B)+b*cos(A)=2*c*cos(C)
+sin(A)*cos(B)+sin(B)*cos(A)=2*sin(C)*cos(C)
+sin(A+B)=2*sin(C)*cos(C)
+TAG 03
+4
+14
+____
+sin(C)=2*sin(C)*cos(C)
+cos(C)=1/2
+C=Pi/3
+2
+14
+__Vicky__
+Huh,looks great.
+GOTO 04
+2
+14
+____
+After that,I went back home.
+TAG 04
+3
+14
+____
+On the next day.
+At the P.E. class.
+4
+14
+__P.E. Teacher__
+This is a free activities class.
+Don't leave the playground.
+Meet here before 10:00.
+2
+14
+__Students__
+Yes!!!
+3
+14
+____
+I didn't want to exercise.
+So,I decided to talk with Mico.
+3
+07
+__Vicky__
+Hello.
+How do you think of the life?
+3
+07
+__Mico__
+I really enjoy it.
+I have music,games,animation and,my boyfriend.
+3
+07
+__Vicky__
+Boyfriend?!
+You look like a little kid!
+2
+08
+__Mico__
+..............
+3
+08
+__Vicky__
+Sorry!
+I mean that,you are happy and excited all the time.
+4
+07
+__Mico__
+OK.
+We started the affection when I was in Grade 7.
+However,we have fewer and fewer topics in common.
+3
+11
+__Mico__
+I really,really don't want to lose him,
+since we've spent 2 years together.
+4
+11
+__Vicky__
+Well,it's common to lose old friends.
+You don't need to be too sad.
+People should change,right?
+2
+11
+__Mico__
+..........
+3
+11
+__Vicky__
+After all,you have many things.
+Your friends,your hobbies and your life.
+3
+11
+__Vicky__
+Also,you can talk with him.
+I don't think anybody should give up such a good girl.
+3
+07
+__Mico__
+Vicky...
+I have to say that you are good at comforting others.
+2
+07
+__Vicky__
+Maybe.
+4
+07
+__Mico__
+Look!
+Isn't that Hatheway?
+Hi,Hatheway!
+3
+20
+__Mico__
+This is my friend,Hatheway.
+This is my new classmate,Vicky.
+4
+20
+__Hatheway__
+Hmm...
+8a11ance is so difficult.
+It tortured me a lot.
+3
+20
+__Vicky__
+Well,you can give up.
+After all, games should make us happy.
+3
+20
+__Hatheway__
+Yeah,maybe.
+Oh,I forgot to say,nice to meet you!
+2
+20
+__Vicky__
+Nice to meet you!
+4
+20
+__Hatheway__
+Well,it seems that you have been Mico's good friend.
+Mico is a good girl.
+I love her a lot~
+2
+20
+__Vicky&Mico__
+???
+3
+14
+____
+Hatheway ran away.
+Maybe she was scared.
+2
+14
+__Vicky__
+Strange guy...
+3
+14
+____
+The bell rang.
+Time to do exercises.
+2
+14
+____
+...
+4
+14
+__Math Teacher__
+ARE YOU KIDDING?
+YOU GOT ME PUNISHED ON THE FIRST DAY!
+STAND HERE YOU DUMBASS!CORRECT YOUR BAD HABITS BEFORE STUDYING!
+4
+14
+__Vicky__
+...
+(It's just somebody's fault,why you punish us all?)
+(You holy shit.)
+OPT
+14 05 06 07
+You are punished to stand for a lesson.
+[0]Say something bad about Mr.Lee
+[1]Escape
+[2]Do nothing
+4
+14
+__Vicky__
+Fluorine Uranium Carbon Potassium
+Fluorine Uranium Carbon Potassium
+Fluorine Uranium Carbon Potassium
+TAG 05
+3
+07
+__Mico__
+Shh!
+He's still there!
+4
+07
+__Mico__
+Also,don't punish yourself with others' fault.
+Just dismiss them.
+Think about something fun.
+2
+14
+____
+We just stood there,looking at the scene around us.
+4
+14
+____
+On the blue sky,clouds were floating.
+They had different directions.
+Af if they were following their ways home.
+4
+14
+____
+Birds were yelling and flying.
+Some were black,some were white,some were brown.
+They also had friends...
+4
+14
+____
+Trees were green,as it was still summer at that time.
+They danced with the wind.
+I could hear a pleasant sound.
+4
+14
+____
+The red buildings looked vivid in the sunshine.
+Glasses on the walls reflected the light.
+I daren't look at them directly.
+4
+14
+____
+Smoke from the canteen rose slowly.
+They began cooking.
+A few hours later,we would be able to enjoy.
+3
+14
+__Vicky__
+Ah,you're right...
+So attractive...
+GOTO 08
+2
+14
+____
+I decided to escape.
+TAG 06
+3
+14
+____
+I started running as soon as Mr.Lee left my sight.
+A few seconds later,I entered the building.
+GOTO 08
+2
+14
+____
+I just stood there,thinking nothing.
+TAG 07
+GOTO 08
+2
+14
+____
+That lesson finally came to an end.
+TAG 08
+2
+14
+__Vicky__
+Holy shit...
+2
+14
+____
+We went back to our classroom and had the final lesson.
+3
+14
+__Chemistry Teacher__
+We'll perform an experiment today.
+Please follow the lab rules.
+3
+09
+__Mico__
+Experiment time!
+Haha!
+2
+07
+__Vicky__
+So...let's do it together?
+2
+07
+__Mico__
+Oink...
+3
+07
+____
+We prepared the materials together.
+This time,we need to heat the tube.
+4
+14
+____
+Suddenly,the tube cracked.
+The substance in the tube split everywhere.
+Further more,the alcohol lamp fell over the table.
+2
+07
+__Vicky&Mico__
+AAAH!
+3
+11
+__Mico__
+Vicky...help...
+It hurts...
+3
+11
+____
+Alcohol was burning on her skin.
+I had to find a way to deal with fire!
+OPT
+11 13 14 15
+How to remove alcohol fire?
+[0]Use wet towel
+[1]Use water
+[2]Use my hand
+3
+11
+____
+I covered the fire with the towel.
+The fire was finally removed.
+TAG 13
+GOTO 16
+3
+11
+____
+I picked up a bottle with water.
+I poured water on the fire.
+TAG 14
+4
+11
+____
+However,the fire grew higher.
+The water was obviously not enough.
+I had to collect more water with a basin.
+3
+11
+____
+The fire was finally removed.
+But she is completely wet now!
+GOTO 16
+3
+11
+____
+I patted her with my hand.
+However,the fire also burnt my clothes!
+TAG 15
+2
+11
+__Vicky__
+WTF?
+3
+11
+____
+Classmates poured a basin of water on us.
+Fire was removed,but we went completely wet!
+GOTO 16
+3
+07
+__Vicky__
+Mico,are you OK?
+It was too dangerous!
+TAG 16
+3
+07
+__Mico__
+Oink...
+After all,thank you for saving me.
+3
+07
+____
+She was just a little burned.
+Not a big deal,so I just put some medicine on the wound.
+2
+07
+__Vicky__
+Done!
+3
+09
+__Mico__
+Thank you,Vicky!
+If you hadn't been there,I don't know what would happen!
+2
+07
+__Vicky__
+Huh.
+3
+13
+__Spider__
+Hey,Vicky!
+The informatic teacher is looking for you!
+4
+13
+__Vicky__
+OK!
+I'll go at once.
+See you,Mico!
+4
+14
+__Informatic Teacher__
+Mr.Lee in No.1 High said that you've done great in informatic olympics(OI).
+He needs a chart of your academic scores to open a "green channel" for you.
+It can directly bring you to the elite class in No.1 High.
+3
+14
+__Vicky__
+Really?
+But my academic grade is not that good...
+4
+14
+__Informatic Teacher__
+Well,that's not a big deal.
+In order to send you to No.1 High,I can change the database of the whole school!
+Since you are the hope of our school!
+3
+14
+__Vicky__
+Wow...
+Thanks.
+3
+14
+____
+I finished the chart.
+Mr.Lee said that the channel was opened.
+2
+14
+__Vicky__
+Haha...
+2
+14
+__Informatic Teacher__
+Well,keep studying academic knowledges.
+2
+14
+__Vicky__
+Huh,I know.
+3
+14
+____
+I went back to classroom.
+Mico was still there.
+3
+07
+__Vicky__
+Oh,my friend,I forgot to ask your original class!
+I'm from Class 9.
+3
+07
+__Mico__
+I'm from Class 6.
+It's been a long time since we left our original classes.
+2
+07
+__Vicky__
+Yeah,I also want to go back.
+2
+14
+____
+I headed to Class 9.
+3
+14
+__Students__
+Oh,Vicky,Long time no see!
+We really miss you much!
+2
+14
+__Vicky__
+Me too...
+3
+14
+____
+We talked a lot about our life before.
+I experienced the sense of,home.
+2
+14
+____
+On the way back to classroom,I met Mico.
+3
+07
+__Mico__
+I met my classmates.
+They still remember me!
+3
+07
+__Vicky__
+Ah,of course.
+They must also like you very much.
+2
+07
+__Mico__
+Oink.
+3
+14
+____
+Just like many other stories,the story has a happy beginning.
+Nobody can imagine what the future would be like.
+EOC
+CHAP 1
+3
+14
+____
+The long holiday finally came to an end.
+As is obvious,I really wanted to meet with my good friend,Mico.
+2
+07
+____
+But..It seemed that she was not very happy.
+4
+11
+__Mico__
+I broke up with him.
+I've tried to maintain that relationship but...
+I made nothing better.
+3
+11
+__Vicky__
+Sad story.
+You don't need to be too sad,since anything would finally come to an end.
+2
+11
+__Mico__
+...............
+4
+11
+____
+Suddenly,a strange feeling stroke me while I was looking at the sad girl.
+It was a heart beat,but stronger than anyone before.
+I knew that my face turned red.
+2
+11
+____
+Fortunately,the piglin didn't notice that.
+4
+11
+____
+However,I still felt it strange.
+We were friends,good friends.
+I shouldn't fall in love with her,right?
+2
+14
+____
+I didn't bother her later that day.
+3
+14
+____
+The next day,she seemed to be better.
+I decided to do something with her to cheer her up.
+3
+07
+__Vicky__
+It's P.E. class again.
+Let's play badminton,okay?
+2
+07
+__Mico__
+...OK.
+2
+14
+____
+We found a great place to play.
+2
+14
+____
+After a few rounds,I hit almost no ball.
+3
+07
+__Vicky__
+Sorry,my eyes can hardly see the badminton.
+So,let's try table tennis?
+2
+07
+__Mico__
+Oink.
+3
+14
+____
+We had a great time together.
+I've never been so happy doing exercise.
+2
+14
+____
+And,I finally saw her smile.
+3
+14
+____
+She was soooooo beautiful and lovely.
+I had fallen in love with her.
+2
+14
+__Vicky__
+(That's wrong.I shouldn't do that.)
+3
+14
+____
+The next class was math.
+However,I forgot to bring the textbook.
+3
+14
+__Math Teacher__
+Go to read the textbook with the girl by your side.
+We can't wait for you to find your book.
+2
+07
+__Vicky__
+...
+3
+07
+____
+My heart beat quickly.
+I can smell her pleasant smell.
+2
+07
+__Vicky__
+sniff...sniff...
+3
+07
+____
+I got closer,closer to her.
+It felt like my heart was going to pop.
+3
+07
+____
+After solving the problem,she raised her hand.
+I had to leave her body.
+2
+07
+____
+My heart beat much faster.
+3
+07
+____
+She put down her hand.
+Slowly,I drew near her again.
+4
+07
+____
+Aah...aah...
+I could hardly control my saliva.
+She was so,so delicious...
+3
+07
+____
+The bell rang.
+I quickly went back to my seat.
+4
+07
+__Mico__
+What happened?
+It seems that you feel uncomfortable.
+Do you need to go to the health room?
+2
+07
+__Vicky__
+No...
+2
+07
+____
+I felt extremely embarrassed and ran away.
+2
+07
+__Mico__
+???
+2
+14
+____
+That night...
+3
+14
+____
+I stand beside her bed.
+She was lying here,sleeping silently.
+3
+14
+__Vicky__
+(Well,why I'm here?)
+(It's not good to enter a girl's bedroom without permission.)
+3
+14
+____
+Suddenly,my right hand rose up.
+There was a sharp knife on my hand.
+2
+14
+__Vicky__
+(What's this?Stop!)
+2
+14
+____
+I tried my best to draw back my hand,but failed.
+3
+07
+____
+At the same time,my left hand removed her quilt.
+Her chest was rising and falling regularly.
+4
+07
+____
+My right hand went to the top of her chest.
+And,all of a sudden,it went down into the poor girl's body.
+Blood soaked her clothes immediately.
+COL 0C
+2
+07
+__Vicky__
+(No...Stop this!)
+COL 0C
+4
+07
+____
+However,my hand kept stabbing her.
+It seemed that my body is out of control.
+Her clothes was completely soaked.
+COL 04
+3
+07
+__Vicky__
+(No...what am I doing?)
+(If this continues,she will certainly die soon.)
+COL 04
+3
+07
+____
+My hand was still moving.
+Until all my sight was all red.
+COL 4C
+3
+03
+____
+She stopped breathing.
+The world's most beautiful creature was terminated here,by me.
+COL 4C
+4
+03
+__Vicky__
+NO!!!
+Why I'm doing this???
+Mico...please don't leave my like this!
+COL 4C
+3
+03
+____
+I finally gained the control of my body.
+I stood on my knees,crying for help.
+COL 4C
+3
+03
+__Vicky__
+Why I have to do this???
+Could anyone save her,please...
+COL 4C
+3
+03
+____
+Obviously,it's impossible.
+Her body had been cold and sticky.
+COL 4C
+3
+03
+____
+I kept crying,until I lost consciousness.
+It was as if time was stopped.
+COL 4C
+2
+14
+__Vicky__
+(Where am I?)
+3
+14
+____
+Luckily,it was just a dream.
+However,it was so real that I was still very sad.
+3
+14
+____
+I went to school.
+She didn't come that day.
+3
+14
+__Vicky__
+(Did something bad really happened to her?)
+(No,it can't be true...)
+3
+14
+____
+I felt that my heart had stopped beating.
+I really,really didn't want to lose her.
+3
+20
+__Vicky__
+Hatheway,have you seen Mico today?
+I'm a little worried about her.
+3
+20
+__Hatheway__
+Sorry,I haven't.
+Maybe she caught cold or so.
+3
+13
+__Vicky__
+Spider,have you seen Mico today?
+I've never seen her have one day off before!
+3
+13
+__Spider__
+Uh,I don't know.
+Also,why you're thinking about this?Did you fall in love with her?
+3
+13
+__Vicky__
+!!!
+No...I'm just a little worried.
+3
+14
+____
+....
+Maybe I need to ask Mr.Lee?
+3
+14
+__Math Teacher__
+Mind your own business!
+Her mother asked for one week off for her.
+3
+14
+____
+That day,I couldn't help thinking about that dream.
+I'm really,really scared to lose her.
+2
+14
+____
+After a long week,she finally came to school.
+2
+07
+__Vicky__
+M...
+3
+07
+____
+I daren't talk with her.
+I couldn't pardon myself.
+4
+07
+__Mico__
+You look so strange.
+What happened?
+You've never been so upset before.
+2
+07
+__Vicky__
+...
+OPT
+07 09 10 10
+Should I tell her my dream?
+[0]Tell her
+[1]Don't tell her.
+[2]*Please help me to make the decision!*
+4
+07
+__Vicky__
+Huh...I had a dream last week.
+I...killed you cruelly.
+I can't pardon myself.
+TAG 09
+4
+07
+__Mico__
+Ah...It doesn't matter.
+You have the right to dream.
+After all,they're not real!
+2
+07
+__Vicky__
+But I still think...
+OPT
+07 11 12 11
+But I still think those who had such a dream...
+[0]Should be punished
+[1]Shouldn't be pardoned
+[2]*Please help me to make the decision!*
+2
+07
+__Mico__
+Punishment?I don't think so.
+TAG 11
+EDB 0
+3
+07
+__Vicky__
+But...Please!
+If you don't punish me,I could never forgive myself!
+2
+08
+__Mico__
+OK.
+3
+08
+____
+She angrily slapped me.
+It seemed that she didn't make full use of her power,but I suffered great pain.
+3
+07
+__Vicky__
+AAH!
+It hurts!It hurts...
+3
+07
+__Mico__
+Sorry,are you OK?
+I didn't do it on purpose.
+4
+07
+__Vicky__
+Not a big deal.
+After all,I can finally forgive myself.
+Thank you.
+3
+07
+__Mico__
+You don't need to do that.
+I'm glad to help you.
+2
+07
+__Vicky__
+And...We're still friends,right?
+3
+07
+__Mico__
+Of course!
+We're friends,always friends!
+3
+14
+____
+Such a happy life came to an end when we graduated.
+We went to different high schools.
+2
+14
+____
+Before saying goodbye,we had a talk.
+4
+11
+__Vicky__
+Mico...I really,really don't want to leave you.
+Are we still friends?
+Will we meet again?
+4
+11
+__Mico__
+Yes!
+We're always friends,best friends!
+And...I believe that we'll meet again!
+2
+14
+____
+However,we've never seen each other since then.
+ED 0
+3
+07
+__Mico__
+Never forgive you...right?
+Give me some days to think about it.
+TAG 12
+EDB 1
+2
+14
+____
+She hadn't communicated with me since then.
+2
+14
+____
+However,after we graduate,she came to have a talk with me.
+3
+07
+__Mico__
+Do you still think that you shouldn't be forgiven?
+I finally came up with an idea.
+2
+07
+__Vicky__
+Huh...Yes.
+3
+07
+____
+And the next second,she put something on my face.
+I lost consciousness almost at once.
+3
+28
+____
+...
+???
+3
+28
+__???__
+Why you bring this human being to our home?
+This damn thing would pollute our home!
+3
+28
+__Mico__
+Mom,it is not human.
+It is my new slave,Vicky.
+3
+28
+__Vicky__
+Slave?!
+You've never told me!
+3
+28
+__Old Piglin__
+Oink,you woke up?
+OK,then let's perform the operation!
+4
+28
+____
+I finally realized the situation I was involved in.
+I was fixed on an operating table.
+The old piglin,which must be Mico's mother,is standing by my side.
+4
+28
+__Vicky__
+No...
+Please...if someone is here,please help me!
+Mico...I'm sorry...I regret saying that!
+3
+28
+__Old Piglin__
+Shut up!
+You dirty human has no right to speak here!
+2
+28
+__Vicky__
+I'm not human...
+3
+28
+____
+The piglin didn't notice my struggling.
+The operation has started.
+COL 47
+3
+14
+__Vicky__
+NO!!!
+Please!
+COL 47
+3
+14
+____
+I didn't exactly know what was happening.
+The only thing I knew was the extreme pain.
+COL 47
+2
+14
+____
+It was as if a year had passed.
+COL 47
+2
+28
+____
+And all of a sudden,the pain stopped.
+2
+28
+__Old Piglin__
+Oink,good!So that you can never harm my dear Mico!
+3
+14
+____
+She removed my important thing.
+What's more,she commanded me to work day and night.
+2
+28
+__Vicky__
+Old piglin...I've finished today's job.
+2
+28
+__Old Piglin__
+Shut up!Haven't I told you that you have no right to use your dirty mouth?
+2
+27
+____
+I saw Mico's little brother and came to talk with him.
+2
+27
+__Vicky__
+Little Mico...
+2
+27
+__Little Mico__
+Shut up!
+2
+07
+____
+Finally I saw Mico,the girl I've missed for a while.
+2
+07
+__Vicky__
+Mico.Long time no see...
+2
+08
+__Mico__
+Shut up!
+3
+14
+____
+My heart was broken.
+I've lost everything.
+3
+14
+____
+Endless despair,endless torture.
+This is the real hell.
+ED 1
+3
+07
+__Vicky__
+Well,nothing.
+I just have some little personal issues.
+TAG 10
+3
+07
+__Mico__
+Oink.
+Then I don't bother you.
+4
+07
+__Vicky__
+(Yeah,that's good.)
+(So that I won't hurt you.)
+SO WHY DID YOU RUN AFTER ME AND KILL ME?
+3
+07
+__Mico__
+???
+What's that?
+2
+07
+__Vicky__
+YOU LITTLE SHORT AND SILLY SHIT!
+3
+08
+__Mico__
+How dare you!
+Do you think that we're friends so you can insult me?
+3
+08
+__Vicky__
+???
+What happened just now?
+3
+07
+__Mico__
+Well,you don't know?
+You said some strange sentences just now.
+2
+07
+__Vicky__
+Huh,really?
+3
+07
+____
+I really don't know.
+Those words came out my mouth without my control.
+4
+07
+____
+That afternoon,on the self studying class.
+Mico asked me to help her solve a problem.
+Since everybody is talking,I also talked with her.
+3
+07
+__Vicky__
+Well,you can consider the formula as a function f(x).
+Then you can know if there's a root by getting f'(x) and f(0).
+3
+07
+__Mico__
+OK,Thanks.
+You really know much.
+4
+07
+__Vicky__
+(Thanks God!)
+(It seems that she is not angry.)
+(Yes,maybe dream is not a big deal.)
+2
+14
+____
+Suddenly,the vice president of our school broke in.
+3
+14
+__Vice President__
+Why are you so noisy?
+All the building could hear you!
+3
+14
+__Vice President__
+How dare you to call yourself "Class 14"?
+No other class is alike you!
+3
+14
+__Math Teacher__
+Again??!!
+YOU LITTLE BASTARDS ALWAYS RUIN MY JOB!
+3
+14
+__Math Teacher__
+EVERYBODY WRITES A 800 WORDS ARTICLE BEFORE TOMORROW!
+HAND IN OR GO AWAY!!
+4
+14
+__Vicky__
+(Huh,fuck you!)
+(How dare you to command us like this?)
+(Do you think you can force everybody to do whatever you like?)
+4
+14
+____
+Mr.Lee went away.
+Of course I didn't want to write that fucking stuff,nor anybody.
+However,I picked up a paper.
+4
+14
+__Vicky__
+I apply for going back to Class 9.
+I think the environment here is not suitable for me.
+Also,mind your own business!
+4
+14
+__Vicky__
+Only silly leaders would pay attention to such silly stuff.
+A real elite class should have nothing but studying.
+Then,go to manage your fucking rules and write your fucking article!!!Haha!!
+4
+14
+____
+I wrote these on the paper angrily.
+However,this can't eradicate my anger.
+After school,I decided to do a really crazy thing.
+3
+14
+____
+I picked up the mop.
+It smelled really pungent,due to the bacteria in it.
+4
+14
+__Vicky__
+Haha,this is good!
+Go away,you damn Class 14!
+No one wants to stay here anymore!
+4
+14
+____
+I used the mop to wipe everything in the classroom.
+The blackboard,multimedia computer,desks and walls,except mine and Mico's desks.
+Everything is now covered with extremely disgusting liquid.
+4
+14
+__Vicky__
+HAHA!!!
+GO DIE YOU FUCKING CLASS 14!!!
+ONLY SHIT WOULD STAY IN THIS DURTY AND SHITY FUCKING HELL!!!
+3
+14
+____
+After all of this,I spat on the lecture and left the classroom.
+Then I went to Class 9.
+4
+14
+__Vicky__
+Ah,how I want to come back!
+That holy shit class.
+I would go mad if I stay there any longer!
+3
+14
+____
+I turned the computer on and decided to listen to music.
+But...
+3
+14
+__Students__
+Go away!
+This is NOT your class anymore!
+4
+14
+__Vicky__
+(Huh,you're right.)
+(This is not my class,that is also not my class.)
+(I've never got home,yeah.)
+4
+14
+____
+I left that classroom and wandered for a long time before going home.
+There were many students on the street.
+All of them had friends,had class,had home.
+4
+14
+____
+Only I was lonely.
+I have a friend.
+The only friend of mine.
+3
+14
+____
+Without her,I would be really lonely.
+Lonely forever.
+2
+14
+____
+The next day...
+3
+14
+__Students__
+Where does this fucking smell come from?
+I'm going to sick!
+3
+14
+__Vicky__
+(Haha,does it smell great?)
+(Cock class should only smell like this!)
+3
+07
+__Mico__
+Vicky,do you know who did this?
+I feel very uncomfortable here.
+4
+07
+__Vicky__
+Haha,it's me,then?
+Do you like it?
+Do you also want to be so foul?
+3
+07
+____
+I picked up the smelly mop.
+Then,I charged at Mico.
+3
+08
+__Mico__
+What are you doing?
+What's your problem?
+4
+14
+____
+She ran away angrily.
+Obviously,other students were also shocked.
+After I finally became clear,I realized what I had done.
+3
+14
+__Vicky__
+(Too late.I must have made her very angry.)
+(I've lost my only friend.)
+3
+14
+____
+The next day,I decided to apologize to her.
+I'm really,really afraid to lose her.
+2
+07
+__Vicky__
+Ah,Mico,I'm really sorry for yesterday...
+3
+07
+__Mico__
+You don't need to apologize.
+It's not a big deal.
+3
+07
+__Vicky__
+Huh.
+(She will never pardon me...)
+2
+07
+____
+Suddenly,a strange idea came into my mind.
+4
+07
+__Vicky__
+(Yeah,I'm a piece of shit.)
+(I don't have the permission to be your friend.)
+(I'll make you hate me,leave me forever!)
+2
+07
+____
+The next second,my mind was again possessed.
+2
+07
+__Vicky__
+Haha...I won't get angry at such a little kid like you.
+2
+08
+__Mico__
+...
+3
+08
+__Vicky__
+Short,silly and naive.
+Could anything be as annoying as you?
+2
+08
+__Mico__
+...
+4
+08
+__Vicky__
+You little delicious piggy~
+I'm gonna kill and eat you~
+Come here,come here~
+3
+08
+__Mico__
+Again?
+Can you fucking shut up your fucking mouth,you bitch?
+3
+08
+__Vicky__
+Haha...
+Little Mico,delicious Mico...
+2
+14
+____
+I stepped away with a strange and strained posture.
+2
+14
+____
+Later,I went to the PC Club.
+2
+13
+__Vicky__
+lit...tle...mi...co...
+3
+13
+__Spider__
+What happened?
+You look so strange!
+3
+13
+__Vicky__
+mi...co...
+m...i...c...o...
+4
+13
+__Spider__
+Mico?!
+Isn't that the girl you've mentioned before?
+What happened to you or her?
+3
+13
+__Vicky__
+........m.........i........
+!!!
+2
+13
+__Spider__
+???
+3
+13
+__Vicky__
+What happened just now?
+It was like a dream!
+2
+14
+____
+END ALPHA 4
+EOC
+CHAP 6
+4
+14
+__President__
+Congratulations!
+You've finished the three years' life in No.1 High.
+From now on,you are a new part of the society.
+4
+14
+__President__
+In the future,when you recall the life in No.1 High...
+I wish that you'll have a smile on your face.
+Everyone would miss both people and life here!
+4
+14
+__President__
+And...you can visit our school anytime you want!
+No.1 High always welcome you!
+That's all,thank you!
+2
+07
+____
+After the ending,I patted Mico's shoulder carefully.
+2
+07
+__Mico__
+Huh?Vicky...
+4
+07
+__Vicky__
+Let's go.
+I'll take you to a beautiful place.
+A place you've never been to.
+2
+07
+__Mico__
+OK.
+3
+07
+____
+I took her to the Hill.
+We climbed the rock and stairs.
+3
+07
+__Mico__
+Vicky...
+Are we almost there?
+3
+07
+__Vicky__
+Yes.
+Be patient!
+4
+07
+____
+We finally arrived there.
+It's a deserted platform on the top of the hill.
+We can see the whole school there.
+2
+07
+__Mico__
+Wow...
+2
+07
+__Vicky__
+First,I'd like to congratulate you for graduating.
+2
+07
+__Mico__
+Same.
+3
+07
+__Vicky__
+And I still have to say,the past four years with you are really precious for me.
+I'm really happy and satisfied.
+3
+07
+__Mico__
+Ah,you've also changed a lot,Vicky.
+You can finally act as a human,that's good.
+2
+07
+__Vicky__
+And...
+OPT
+07 9001 9002 9002
+Should I express my love to her?
+[0]No
+[1]Yes
+[2]*Please help me to make the decision!*
+4
+07
+__Vicky__
+It's time to say goodbye.
+We'll go separate ways from now on.
+Best wishes.
+TAG 9001
+EDB 18
+3
+11
+__Mico__
+Best wishes.
+Goodbye,Vicky.
+2
+11
+__Vicky__
+Goodbye,Mico.
+3
+14
+____
+She went away,gradually faded from my sight.
+My eyes were covered with tears.
+3
+14
+__Vicky__
+Huh?
+!!!
+2
+14
+____
+I failed to gain control of my body and fell off the platform.
+3
+14
+____
+The ground was drawing closer,but I didn't care.
+Yeah,my life had come to an end,sad end.
+ED 18
+4
+07
+__Vicky__
+Mico,I always love you!
+Please,be my girlfriend!Please!
+This is the last chance...
+TAG 9002
+4
+07
+__Vicky__
+No matter what will happen in the future,I promise.
+I'll try my best to bring you a happy life.
+I'm faithful forever.I promise.
+4
+07
+__Vicky__
+Yeah,I know I've done many bad things,but that has gone.
+I know we may go separate ways,but our hearts are connected,OK?
+So,please,Mico,please agree!Give me the last chance!
+2
+07
+__Mico__
+...
+4
+07
+____
+She was just standing there,with a slight breathing sound.
+Her eyes were not looking anywhere.
+It seemed that she had stopped working.
+2
+07
+__Vicky__
+???
+2
+07
+__Mico__
+...
+3
+07
+__Vicky__
+(Maybe she is just thinking...)
+(Say yes,please!)
+4
+07
+____
+We just stood there for a few minutes.
+It was as if a few years had passed.
+I was just waiting patiently,waiting for an answer.
+2
+07
+____
+And finally,her mouth opened.
+2
+07
+__Mico__
+...
+2
+07
+__Mico__
+OK,Vicky.Then I give you the last chance now.
+2
+07
+__Vicky__
+(I got it!)
+3
+07
+____
+I had waited a long time.
+However,when it finally happened,I forgot how to express.
+2
+07
+__Mico__
+But,never forget your promise.
+2
+07
+__Vicky__
+Yes!
+3
+07
+____
+I gave her a hug.
+We both started crying.
+3
+11
+__Vicky__
+Thank you...
+You taught me how to be a human and,what friend means.
+4
+11
+__Mico__
+...
+I know you love me.Your mask is useless.
+You can change yourself for me,that's kind of you...
+3
+11
+____
+We just stood there,crying.
+Her tears had soaked my clothes,but I didn't care.
+3
+11
+__Vicky__
+So,let's start a new life from now on.
+As long as we are together,there's no real obstacle.
+3
+07
+__Mico__
+Yes!
+Let's go home!
+4
+07
+____
+We slowly walked down the hill.
+I took a look at the piglin girl by my side.
+She was still so beautiful and simple.
+4
+07
+__Vicky__
+(I know,I'm the happiest man in the world.)
+(After going through the hard insane life,a bright future is waiting for me.)
+(I'll undertake all the difficulties for you,Mico!)
+3
+07
+__Vicky__
+Then,see you tomorrow!
+Meet me in front of your house at 10:00!
+2
+07
+__Mico__
+OK,see you!
+3
+14
+____
+The next day,I got up quite early.
+After finishing necessary preparations,I set off.
+3
+14
+____
+Mico's house is about 20km away.
+I spent one hour to get there.
+EOC
+CHAP -1
+3
+14
+____
+That night,Lily gave me the letter from Vicky.
+I didn't know what he would say.
+2
+14
+____
+I slowly opened the envelope.
+4
+14
+__Vicky__
+Dear Mico,
+Maybe it's the first and last time that we communicate in this way.
+With my last sanity and love,I write down this letter to say goodbye to you.
+2
+14
+__Mico__
+(Goodbye?It's unlike you...)
+3
+14
+__Vicky__
+The two years with you were my happiest and most determined time.
+It was the first time that I knew a friendship without habits,money and levels.
+4
+14
+__Vicky__
+Can you still remember the days when we were deskmates?
+Every time I had something happy,I shared it with you at once.
+And you,also treated me as your partner.
+4
+14
+__Vicky__
+Though we were strangers,I felt as if we were old friends.Late game.
+Your body and mind made me pleased.
+If it could last forever,it would be great.
+2
+14
+__Mico__
+(Was I...really so good?)
+4
+14
+__Vicky__
+Sadly,the mental disease started when I was in Grade 8 destroyed my dream.
+Though I know it was a dream,I can't pardon myself for killing you with a knife.
+The second day,I finally decided.
+4
+14
+__Vicky__
+I'll let you hate me,leave such a mad guy forever.
+I was struggling,thinking if it's right,but I decided.
+I don't want to mention things after this,sorry.
+2
+14
+__Mico__
+(There's no need...)
+4
+14
+__Vicky__
+In a word,after going through a lot of difficulties,
+Our relationship has reached a new high level.
+But I'm so greedy,want to occupy you,even wish you to leave your classmates.
+4
+14
+__Vicky__
+During the short clearness,I knew that i's unreasonable.
+However,my brain has been occupied with desire.
+I know love needs two hearts,but my body has lost control.
+4
+14
+__Vicky__
+I insult you and everyone around you,used the worst and dirtiest words.
+I don't want to apologize for this,since it's my real trought.
+But,sorry,I hurt your important people,you must have been upset.
+4
+14
+__Vicky__
+The important exam is drawing near,I hope to stay up a little more.
+I know you hate me a lot,but I also hate myself.
+I really want to be as simple as you.
+4
+14
+__Vicky__
+Every time I saw you playing basketball or dancing,I looked at you with envy.
+How I want to be a member of you!
+But,sorry,my physical and mental state doesn't allow.No problem.
+4
+14
+__Vicky__
+During these two years,I said about 5000 bad sentences about you.
+About 1000 of them are blacking your name.
+Really sorry,but I think there's no more.
+2
+14
+__Mico__
+(...)
+4
+14
+__Vicky__
+I finally decided to receive therapy,please don't worry.
+Thank you for everything you've done for me in the past two years.
+Your encouragement,your support,and your praise.
+3
+14
+__Vicky__
+What's more,you never laugh at me.
+You can understand my strange feelings.
+3
+14
+__Vicky__
+I'll remember you forever.
+No matter what the future will be like.
+4
+14
+__Vicky__
+i hope when i turn around
+the girl is there
+smiling at me
+4
+14
+__Vicky__
+how i want to hear again
+thank you vicky
+but i really have to go
+3
+14
+____
+His tears had soaked the letter paper.
+My eyes was also full of tears.
+4
+14
+__Vicky__
+i believe
+we ll meet again
+in another form
+4
+14
+__Vicky__
+dont miss me but dont forget me
+world is big
+meeting you is my best honor
+3
+14
+__Vicky__
+much better than the medals
+maybe im bound to die alone
+4
+14
+__Vicky__
+you can find the the right person
+if you are happy
+maybe i ll be also happy
+2
+14
+__Mico__
+*sob*
+4
+14
+__Vicky__
+i wanted that
+you can celebrate my birthday
+you can travel to alaska with me
+4
+14
+__Vicky__
+i can wander around the world with you
+i can end my life in you hug
+but these are impossible
+3
+14
+__Mico__
+*sob*
+No...why you have to suffer these?
+4
+14
+__Vicky__
+not a big deal
+dont come to my dream again
+i dont want to hurt you again
+3
+14
+__Mico__
+Why...
+I'm not afraid of you...
+3
+14
+__Vicky__
+i want to see your smile
+but these are bound to end here
+4
+14
+____
+This part of letter was completely soaked.
+I didn't know where the tears come from.
+I was also crying heavily.
+4
+14
+__Vicky__
+Mico Piglin...maybe it's the first and last tine that I call you in this way.
+Maybe you are a little unaccustomed.
+Though I don't want to give up,this is really the end.
+2
+14
+__Vicky__
+I don't regret meeting you.
+2
+14
+__Vicky__
+The last sentence.
+4
+14
+__Vicky__
+I love you,see you,never see you again.
+Yours,
+VillagerVicky
+2
+14
+____
+There was a little paint under the text.
+2
+14
+__Vicky__
+p.s. My best paint.I also give it to you.
+3
+14
+____
+There was another paper in the envelope.
+I carefully picked it up.
+3
+14
+____
+It's a picture of me.
+It's title was My Ideal Girl(boy)friend.
+3
+14
+____
+I knew it had been too late.
+I had lost my best friend,forever.
+EOC
+CHAP -2
+4
+14
+____
+I finally made the decision to say goodbye.
+As you can imagine,I was suffering great pain.
+I had given up the hope to live.
+3
+14
+____
+But,it's for her.
+I couldn't hurt her anymore.
+3
+14
+____
+I started writing poems.
+Poems that can relieve myself.
+4
+14
+__Vicky__
+Beautiful World ----Vicky Villager
+It's darkening
+Few passers-by
+3
+14
+__Vicky__
+They lower their heads
+Walking silently
+3
+14
+__Vicky__
+Sun is falling
+Cover land with gold
+4
+14
+__Vicky__
+The girl of mine
+The only one
+Sitting there
+4
+14
+__Vicky__
+A lonely one
+Walk there
+"Let's go"
+4
+14
+__Vicky__
+*sob*
+(No!This is not enough!)
+(I must express my anger towards this shit world!)
+4
+14
+__Vicky__
+Evil Soul ----Vicky Villager
+It's snowy
+They hug
+3
+14
+__Vicky__
+It's rainy
+They hide
+3
+14
+__Vicky__
+It's sunny
+They laugh
+3
+14
+__Vicky__
+A soul
+Is crying
+3
+14
+__Vicky__
+Which day
+Is the last day
+2
+14
+__Vicky__
+Haha...
+EOC
+CHAP -3
+3
+14
+____
+I don't like feeding animals.
+But,in fact,I used to feed some little animals.
+4
+14
+____
+When I was little,I got a couple of hamsters.
+One was white and another was brown.
+They were lovely and curious,made me very happy.
+2
+14
+__Vicky__
+(Huh,I can breed them later,and get a lot of hamsters!)
+3
+14
+____
+I bought some equipments.
+So that they could get food and water.
+4
+14
+____
+I enjoyed watching them eating the fruit.
+Also,sometimes I took them out and play with them.
+It's a little dangerous,though.
+4
+14
+____
+However,things changed a week later.
+The hamsters started to struggle.
+They put their legs forward.
+2
+14
+__Vicky__
+???
+3
+14
+____
+I used a stick to help them.
+They held my stick tightly.
+3
+14
+____
+And suddenly,one of them loosed its hands.
+Another one stopped struggling soon.
+2
+14
+____
+They died.
+2
+14
+__Vicky__
+No...
+2
+14
+____
+I found a place to bury them.
+3
+14
+____
+When I was in middle school,I got a tank of fish.
+There were little sharks,transparent fish and so on.
+3
+14
+____
+I used an automatic device to feed them.
+They were really fascinating.
+2
+14
+____
+One day,I brought some fish home.
+2
+14
+__Vicky__
+(Now you have new friends.)
+2
+14
+____
+However,the parasite on the fish killed all the fish.
+2
+14
+____
+And later in the high school,my deskmate gave me a mantis.
+2
+14
+____
+I fed it with fruit flies.
+3
+14
+____
+It's said that mantis could grow up to 0.1m.
+That's amazing!
+3
+14
+____
+However,it failed to shed its skin and died.
+I've never fed animals since then.
+EOC
+END
