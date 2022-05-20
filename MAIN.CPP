@@ -4,6 +4,7 @@
 #include <cstring>
 #include <fstream>
 #include <ctime>
+#include <limits>
 #define TEXT 100001
 #define PIC 1001
 #define DICT 11
@@ -93,6 +94,7 @@ bool sure()
 
 void cpause(bool arg)
 {
+	cin.ignore(numeric_limits<streamsize>::max(), '\n');
 	// 0:pure 1:default
 	if (arg)
 		cin.get();
@@ -108,10 +110,7 @@ int choice(string s)
 	string i;
 	for (;;)
 	{
-		cout << "Choose an option from: ";
-		for (char a : s)
-			cout << "[" << a << "] ";
-		cout << ": ";
+		cout << "Choose an option and press ENTER: ";
 		cin >> i;
 		for (int a = 0; a < s.length(); a++)
 			if (tolower(s.at(a)) == tolower(i.at(0)))
@@ -285,8 +284,8 @@ void about()
 	if (finished)
 		printpic(1);
 	printpic(2);
-	cpause(1);
-	ccls();
+	cpause(0);
+	//ccls();
 }
 
 void dictd(int num)
